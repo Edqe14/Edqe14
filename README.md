@@ -1,16 +1,16 @@
-### Hi there 👋
+# *Hi there 👋*
 
-<!--
-**Edqe14/Edqe14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm Joshua, usually known as `Edqe_` online. I'm a student and a web developer.
 
-Here are some ideas to get you started:
+🌐 [Website](https://edqe.me)
+✉ [E-Mail](mailto:hello@edqe.me)
+☕ [Buy me a Coffee](https://ko-fi.com/edqe_)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Here is some of the projects I've worked on:
+- ❤ [Vignette](https://vignetteapp.org) - The open source VTuber software.
+- 🔊 [AudioForwarder](https://github.com/Edqe14/AudioForwarder) - Forward audio from Discord to the web
+- 🦈 [HEFS Website](https://github.com/GoldElysium/hefs-website) - Hololive EN Fan website  
+and more!
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Edqe14)](https://github.com/anuraghazra/github-readme-stats)
+

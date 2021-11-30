@@ -29,7 +29,7 @@
 ![React](https://img.shields.io/badge/-React-2f1a47?style=flat&logo=react)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-2f1a47?style=flat&logo=node.js)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-2f1a47?style=flat&logo=bootstrap)&nbsp;
-![HTML5](https://img.shields.io/badge/-HTML5-2f1a47?style=flat&logo=html5)&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML5-2f1a47?style=flat&logo=html5)&nbsp;  
 ![CSS3](https://img.shields.io/badge/-CSS3-2f1a47?style=flat&logo=css3)&nbsp;
 ![Express.JS](https://img.shields.io/badge/-Express-2f1a47?style=flat&logo=express)&nbsp;
 ![Next.JS](https://img.shields.io/badge/-Next.JS-2f1a47?style=flat&logo=next.js)&nbsp;
@@ -41,7 +41,7 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-2f1a47?style=flat&logo=visualstudiocode)&nbsp;
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-2f1a47?style=flat&logo=intellijidea)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-2f1a47?style=flat&logo=adobephotoshop)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-2f1a47?style=flat&logo=adobephotoshop)&nbsp;  
 ![Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-2f1a47?style=flat&logo=adobepremierepro)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-2f1a47?style=flat&logo=figma)&nbsp;
 ![Blender](https://img.shields.io/badge/-Blender-2f1a47?style=flat&logo=blender)&nbsp;

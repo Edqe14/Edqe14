@@ -30,7 +30,7 @@
 ![Node.JS](https://img.shields.io/badge/-Node.JS-2f1a47?style=flat&logo=node.js)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-2f1a47?style=flat&logo=bootstrap)&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-2f1a47?style=flat&logo=html5)&nbsp;  
-![CSS3](https://img.shields.io/badge/-CSS3-2f1a47?style=flat&logo=css3)&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-2f1a47?style=flat&logo=css3&logoColor=039be5)&nbsp;
 ![Express.JS](https://img.shields.io/badge/-Express-2f1a47?style=flat&logo=express)&nbsp;
 ![Next.JS](https://img.shields.io/badge/-Next.JS-2f1a47?style=flat&logo=next.js)&nbsp;
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-2f1a47?style=flat&logo=tailwindcss)&nbsp;  

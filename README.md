@@ -46,6 +46,4 @@
 ![Figma](https://img.shields.io/badge/-Figma-2f1a47?style=flat&logo=figma)&nbsp;
 ![Blender](https://img.shields.io/badge/-Blender-2f1a47?style=flat&logo=blender)&nbsp;
 
-<br>
-
-![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=edqe14&langs_count=10)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edqe14&langs_count=10" align="right">

@@ -19,7 +19,7 @@
 
 ## Here is tech stacks I know and use 🛠
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edqe14&langs_count=10" align="right" width="400px">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edqe14&langs_count=10" align="right" width="350px">
 
 ![Javascript](https://img.shields.io/badge/-Javascript-2f1a47?style=flat&logo=javascript)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-2f1a47?style=flat&logo=typescript)&nbsp;

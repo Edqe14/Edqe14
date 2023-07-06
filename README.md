@@ -1,6 +1,6 @@
 # *Hi there 👋*
 
-### I'm Yuka, a.k.a `Edqe_` online. I'm a student and a web developer
+### I'm Yuka or also known as Edqe_ online. I'm a self-taught web developer
 
 🌐 [Website](https://edqe.me)
 ✉ [E-Mail](mailto:hello@edqe.me)

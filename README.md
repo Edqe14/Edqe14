@@ -1,6 +1,6 @@
-# *Hi there 👋*
+# _Hi there 👋_
 
-### I'm Yuka or also known as Edqe_ online. I'm a self-taught web developer
+### I'm Yuka or also known as Edqe\_ online. I'm a self-taught web developer
 
 🌐 [Website](https://edqe.me)
 ✉ [E-Mail](mailto:hello@edqe.me)
@@ -11,7 +11,7 @@
 - ❤ [Vignette](https://vignetteapp.org) - The open source VTuber software.
 - 🔊 [AudioForwarder](https://github.com/Edqe14/AudioForwarder) - Forward audio from Discord to the web
 - 🦈 [HEFS Website](https://github.com/GoldElysium/hefs-website) - Hololive EN Fan website  
-*and more!*
+  _and more!_
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Edqe14)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -45,3 +45,7 @@
 ![Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-2f1a47?style=flat&logo=adobepremierepro)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-2f1a47?style=flat&logo=figma)&nbsp;
 ![Blender](https://img.shields.io/badge/-Blender-2f1a47?style=flat&logo=blender)&nbsp;
+
+### Profile views counter? _pog_
+
+![Profile counter](https://moe-counter.glitch.me/get/@edqe14)

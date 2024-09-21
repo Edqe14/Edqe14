@@ -8,12 +8,15 @@
 
 ## Here is some of the projects I've worked on
 
+<img alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Edqe14" align="right" width="300px">
+
 - ❤ [Vignette](https://vignetteapp.org) - The open source VTuber software.
 - 🔊 [AudioForwarder](https://github.com/Edqe14/AudioForwarder) - Forward audio from Discord to the web
 - 🦈 [HEFS Website](https://github.com/GoldElysium/hefs-website) - Hololive EN Fan website  
+- 💙 [Aqua iro Voyage](https://minatoaqua.ch/) - Minato Aqua's graduation tribute website (I was project lead!)  
+- 🔥 [Bonfire](github.com/bonfire-comm/app) - Discord-inspired chat app, built from scratch for school project  
+- 🦄 [Elyth](https://github.com/Edqe14/elyth) - Laravel-inspired HTTP Server template, powered by Elysia & Bun  
   _and more!_
-
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Edqe14)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -23,7 +26,6 @@
 
 ![Javascript](https://img.shields.io/badge/-Javascript-2f1a47?style=flat&logo=javascript)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-2f1a47?style=flat&logo=typescript)&nbsp;
-![Rust](https://img.shields.io/badge/-Rust-2f1a47?style=flat&logo=rust)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-2f1a47?style=flat&logo=php)&nbsp;
 
 ![React](https://img.shields.io/badge/-React-2f1a47?style=flat&logo=react)&nbsp;
@@ -37,7 +39,6 @@
 ![Laravel](https://img.shields.io/badge/-Laravel-2f1a47?style=flat&logo=Laravel)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-2f1a47?style=flat&logo=markdown)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-2f1a47?style=flat&logo=git)&nbsp;
-![Github](https://img.shields.io/badge/-Github-2f1a47?style=flat&logo=github)&nbsp;
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-2f1a47?style=flat&logo=visualstudiocode)&nbsp;
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-2f1a47?style=flat&logo=intellijidea)&nbsp;
@@ -45,7 +46,5 @@
 ![Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-2f1a47?style=flat&logo=adobepremierepro)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-2f1a47?style=flat&logo=figma)&nbsp;
 ![Blender](https://img.shields.io/badge/-Blender-2f1a47?style=flat&logo=blender)&nbsp;
-
-### Profile views counter? _pog_
 
 ![Profile counter](https://moe-counter.glitch.me/get/@edqe14)

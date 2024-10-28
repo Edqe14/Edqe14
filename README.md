@@ -18,11 +18,10 @@
 - 🦄 [Elyth](https://github.com/Edqe14/elyth) - Laravel-inspired HTTP Server template, powered by Elysia & Bun  
   _and more!_
 
----
-
 ## Here is tech stacks I know and use 🛠
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edqe14&langs_count=10" align="right" width="300px">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edqe14&langs_count=10" width="300px">
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Edqe14" width="300px">
 
 ![Javascript](https://img.shields.io/badge/-Javascript-2f1a47?style=flat&logo=javascript)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-2f1a47?style=flat&logo=typescript)&nbsp;

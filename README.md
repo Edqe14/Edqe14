@@ -21,7 +21,6 @@
 ## Here is tech stacks I know and use 🛠
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edqe14&langs_count=10" width="300px">
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Edqe14" width="300px">
 
 ![Javascript](https://img.shields.io/badge/-Javascript-2f1a47?style=flat&logo=javascript)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-2f1a47?style=flat&logo=typescript)&nbsp;
@@ -45,5 +44,7 @@
 ![Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-2f1a47?style=flat&logo=adobepremierepro)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-2f1a47?style=flat&logo=figma)&nbsp;
 ![Blender](https://img.shields.io/badge/-Blender-2f1a47?style=flat&logo=blender)&nbsp;
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Edqe14" width="320px">
 
 ![Profile counter](https://moe-counter.glitch.me/get/@edqe14)

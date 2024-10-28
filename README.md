@@ -47,4 +47,4 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Edqe14" width="320px">
 
-![Profile counter](https://moe-counter.glitch.me/get/@edqe14)
+![Profile counter](https://moe-counter.glitch.me/get/@edqe14?theme=rule34)
